@@ -109,3 +109,7 @@ Config/*
 ./demo_code/*.pth
 *.pt
 *.pth
+
+outputs
+images
+*.png
